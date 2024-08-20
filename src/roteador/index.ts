@@ -8,7 +8,7 @@ const rotas: RouteRecordRaw[] = [
     component: Tarefas,
   },
 ];
-("ahahahah");
+("ahahahdsdsdsdah");
 const roteador = createRouter({
   history: createWebHashHistory(),
   routes: rotas,
